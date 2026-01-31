@@ -1,0 +1,5 @@
+{
+  "name": "Custom Color Book Creator",
+  "description": "Create personalized, high-quality coloring books for children. Choose a theme, add a name, and generate 5 unique, bold-lined coloring pages using Gemini 3 Pro, then download them as a custom PDF.",
+  "requestFramePermissions": []
+}
